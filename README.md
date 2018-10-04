@@ -25,7 +25,6 @@
   * [DevOps](#devOps)
   * [Agile, Scrum, XP](#agile)
   * [Algorithms](#algorithms)
-  * [UML](#uml)
   * [Other](#other)
   * [Security](#security)
   * [Books](#books)
